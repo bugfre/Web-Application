@@ -14,7 +14,7 @@ function deleteRecord(){
     $servername = 'localhost';
     $username = 'root';
     $password = '';
-    $databasename = 'movieflix_database';
+    $databasename = 'database';
 
     //Creating a connection to database            
     $connection = mysqli_connect($servername, $username, $password, $databasename);

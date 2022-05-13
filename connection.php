@@ -1,4 +1,4 @@
 <?php 
-$con = mysqli_connect('localhost', 'root', '', 'movieflix_database');
+$con = mysqli_connect('localhost', 'root', '', 'database');
 
 ?>
