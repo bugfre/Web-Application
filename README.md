@@ -1,4 +1,5 @@
-# Web-Application to store your favoriate list of movies
+# Web-Application 
+- store your favoriate list of movies
 
 ## Video Walkthrough
 
