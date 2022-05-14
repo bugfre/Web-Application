@@ -1,5 +1,5 @@
 # Web-Application 
-- store your favoriate list of movies
+- Store your favoriate movies in one list!
 
 ## Video Walkthrough
 
